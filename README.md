@@ -46,12 +46,7 @@ Replace the placeholders for API_ID, API_HASH, and BOT_TOKEN with your actual cr
 This implementation uses the GPT-3.5 architecture for natural language processing. Make sure you have access to an appropriate API or model for the /chat command to work properly.
 
 ## Credits
-Original code by @SexyNano
-Developed with Pyrogram and powered by GPT-3.5.
-Feel free to join @BotGeniusHub for more exciting projects.
-
-## Disclaimer
-This chatbot is provided for educational and experimental purposes only. The usage of AI models and APIs might be subject to terms and conditions imposed by the model provider. Always comply with the terms and guidelines of the model provider when using AI services.
+Original code by @ritammitra2003
 
 ## License
 No need Of This Stuff
